@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 ```
-To run this app, you need to have NODEJS installed on your device.
+To run this app, you need to have NODEJS and npm installed on your device.
 ```
 
 ### Installing
